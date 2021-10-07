@@ -2,7 +2,7 @@
   "orgName": "ricardo company",
   "edition": "Developer",
   "features": ["EnableSetPasswordInApi"],
-  "hasSampleData": "true",
+  "hasSampleData": true,
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
